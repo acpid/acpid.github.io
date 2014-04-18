@@ -21,7 +21,14 @@ div.announcement {
 }
 
 div#nav {
+  margin-top: 1.5em;
   text-align: center;
+}
+
+div#logo {
+  position: absolute;
+  left: 3px;
+  top: 10px;
 }
 
 img {
