@@ -26,9 +26,7 @@ div#nav {
 }
 
 div#logo {
-  position: absolute;
-  left: 3px;
-  top: 10px;
+  text-align: center;
 }
 
 img {
